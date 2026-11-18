@@ -1,0 +1,8 @@
+{
+  "name": "SnapSplit",
+  "description": "Instant group bill splitter and expense tracker with receipt parsing, proportional tax and tip math, and shareable summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
